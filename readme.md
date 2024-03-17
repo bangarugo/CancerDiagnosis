@@ -35,13 +35,13 @@ Ensure you have the following dependencies installed:
 2. Run the Jupyter Notebook or Python script:
 
     ```bash
-    python cancer_diagnosis_prediction.py
+    python CD.py
 
-    jupyter notebook Cancer_Diagnosis_Prediction.ipynb
+    jupyter notebook CD.ipynb
 
 ## Project Structure
-- Cancer_Diagnosis_Prediction.ipynb: Jupyter Notebook with the main code.
-- Cancer_diagnosis_prediction.py: Equivalent Python script for non-Jupyter execution.
-- project3_data.csv: Dataset for cancer diagnosis prediction.
+- CD.ipynb: Jupyter Notebook with the main code.
+- CD.py: Equivalent Python script for non-Jupyter execution.
+- CD.csv: Dataset for cancer diagnosis prediction.
 - README.md: Project documentation.
 
